@@ -1,15 +1,6 @@
-## 💼 Work Experience
+## 💼 Currently working on
 ### Cobalt. Inc.
 > Lead Developer, 2018. 07 ~
-
-### Jininsa Company
-> Server Developer, 2017. 12 ~ 2018. 06
-
-### Poing
-> Front-End Developer, 2016. 07 ~ 2017. 11
-
-### ParkingSquare / Kakao
-> iOS Developer, 2014. 04 - 2016. 07
 
 ## 📘 Writing
 * [Vue.js 이 정도는 알아야지](http://www.yes24.com/24/goods/56894866)
