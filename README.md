@@ -1,3 +1,18 @@
+<p align="left">
+  <a href="https://cobalt.run">
+    <img src="https://badgen.net/badge/icon/Cobalt Developer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
+  </a>
+  <a href="https://ko-fi.com/kciter">
+    <img src="https://badgen.net/badge/icon/Buy a coffee?icon=kofi&label&color=29ABE0&labelColor=29ABE0" />
+  </a>
+<!--   <a href="https://www.facebook.com/sunhyoup.lee">
+    <img src="https://badgen.net/badge/icon/Facebook?icon=https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg&label&color=1877F2&labelColor=1877F2" />
+  </a>
+  <a href="mailto:kciter@naver.com">
+    <img src="https://badgen.net/badge/icon/Email?icon=naver&label&color=2DB400&labelColor=2DB400" />
+  </a> -->
+</p>
+
 ## 💼 Currently working on
 ### Cobalt. Inc.
 > Lead Developer, 2018. 07 ~
@@ -19,92 +34,4 @@
 * [C++ 코드 품질 관리 비법](https://www.slideshare.net/sunhyouplee/c-33426459)
 
 ## ❤️ Open Source
-### Frontend
-#### - qart.js
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/qart.js/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/qart.js/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/qart.js?style=social)](https://github.com/kciter/qart.js/stargazers)<br>
-https://github.com/cobaltinc/qart.js<br>
-Generate artistic QR code. 🎨
-
-#### - react-barcode
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/react-barcode/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/react-barcode/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/react-barcode?style=social)](https://github.com/kciter/react-barcode/stargazers)<br>
-https://github.com/cobaltinc/react-barcode<br>
-A <Barcode/> component for use with React.
-
-#### - Caple Design System 
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/cobaltinc/caple-design-system/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/cobaltinc/caple-design-system/network/members)
-[![Star](https://img.shields.io/github/stars/cobaltinc/caple-design-system?style=social)](https://github.com/cobaltinc/caple-design-system/stargazers)<br>
-https://github.com/cobaltinc/caple-design-system<br>
-Caple Design System is an open-source design system built by Cobalt, Inc.
-
-### iOS
-#### - Floaty
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/Floaty/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/Floaty/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/Floaty?style=social)](https://github.com/kciter/Floaty/stargazers)<br>
-https://github.com/cobaltinc/Floaty<br>
-❤️ Floating Action Button for iOS
-
-#### - GlitchLabel
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/GlitchLabel/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/GlitchLabel/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/GlitchLabel?style=social)](https://github.com/kciter/GlitchLabel/stargazers)<br>
-https://github.com/cobaltinc/GlitchLabel<br>
-G..lit...c...hing UILa..bel fo..r iO...S 📺
-
-#### - HorizontalDial
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/HorizontalDial/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/HorizontalDial/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/HorizontalDial?style=social)](https://github.com/kciter/HorizontalDial/stargazers)<br>
-https://github.com/cobaltinc/HorizontalDial<br>
-A horizontal scroll dial like Instagram.
-
-#### - SelectionDialog
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/SelectionDialog/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/SelectionDialog/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/SelectionDialog?style=social)](https://github.com/kciter/SelectionDialog/stargazers)<br>
-https://github.com/cobaltinc/SelectionDialog<br>
-Simple selection dialog
-
-### Ruby
-#### - vimgolf-finder
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/vimgolf-finder/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/vimgolf-finder/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/vimgolf-finder?style=social)](https://github.com/kciter/vimgolf-finder/stargazers)<br>
-https://github.com/cobaltinc/vimgolf-finder<br>
-Simple VimGolf challenge finder. 🔎
-
-#### - simple-slack-bot
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/simple-slack-bot/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/simple-slack-bot/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/simple-slack-bot?style=social)](https://github.com/kciter/simple-slack-bot/stargazers)<br>
-https://github.com/cobaltinc/simple-slack-bot<br>
-You can easily make Slack Bot!! ⭐
-
-### Github Actions
-#### - aws-ecr-action
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/aws-ecr-action/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/aws-ecr-action/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/aws-ecr-action?style=social)](https://github.com/kciter/aws-ecr-action/stargazers)<br>
-https://github.com/cobaltinc/aws-ecr-action<br>
-This Action allows you to create Docker images and push into a ECR repository.
-
-#### - terraform-apply-for-aws-action
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/terraform-apply-for-aws-action/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/terraform-apply-for-aws-action/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/terraform-apply-for-aws-action?style=social)](https://github.com/kciter/terraform-apply-for-aws-action/stargazers)<br>
-https://github.com/cobaltinc/terraform-apply-for-aws-action<br>
-Create, change, and improve AWS infrastructure by Terraform.
-
-### ETC
-#### - awesome-style-guide
-[![Watch](https://img.shields.io/github/watchers/kciter/Floaty?style=social)](https://github.com/kciter/awesome-style-guide/watchers)
-[![Fork](https://img.shields.io/github/forks/kciter/Floaty?style=social)](https://github.com/kciter/awesome-style-guide/network/members)
-[![Star](https://img.shields.io/github/stars/kciter/awesome-style-guide?style=social)](https://github.com/kciter/awesome-style-guide/stargazers)<br>
-https://github.com/cobaltinc/awesome-style-guide<br>
-A list of awesome⭐style guide.
-
+#### Look below!
