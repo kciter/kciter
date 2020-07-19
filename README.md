@@ -13,6 +13,8 @@
   </a> -->
 </p>
 
+[![kciter's github stats](https://github-readme-stats.vercel.app/api?username=kciter)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 💼 Currently working on
 ### Cobalt. Inc.
 > Lead Developer, 2018. 07 ~
