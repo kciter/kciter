@@ -12,8 +12,9 @@
     <img src="https://badgen.net/badge/icon/Email?icon=naver&label&color=2DB400&labelColor=2DB400" />
   </a> -->
 </p>
-
+<!--
 [![kciter's github stats](https://github-readme-stats.vercel.app/api?username=kciter&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## 💼 Currently working on
 ### Cobalt. Inc.
