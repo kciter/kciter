@@ -25,7 +25,9 @@
 * [Vue.js 이 정도는 알아야지](http://www.yes24.com/24/goods/56894866)
 
 ## 📺 Presentation
-* [Deep dive into Vue.js](https://present.do/shows/61346fa35b179c0da74651d3)
+* [My presentations](https://present.do/members/60be5fd27733e8053f982ffa)
+
+<!-- * [Deep dive into Vue.js](https://present.do/shows/61346fa35b179c0da74651d3)
 * [오픈소스를 여행하는 히치하이커를 위한 안내서](https://present.do/shows/61346fa35b179c0da7465129)
 * [Vue.js 길라잡이](https://www.youtube.com/watch?v=EOo844GSSDY)
 * [Metal 기반 특별한 UI/UX 제공하기](https://present.do/shows/61346fa35b179c0da746536a)
@@ -33,7 +35,7 @@
 * [Reactive Programming With Swift](https://present.do/shows/61346fa45b179c0da74657fe)
 * [Tour of Vue.js](https://present.do/shows/61346fa35b179c0da74653b0)
 * [Functional Reactive Programming With Swift](https://present.do/shows/61346fa35b179c0da746549e)
-* [C++ 코드 품질 관리 비법](https://present.do/shows/61346fa45b179c0da74658c9)
+* [C++ 코드 품질 관리 비법](https://present.do/shows/61346fa45b179c0da74658c9) -->
 
 ## ❤️ Open Source
 #### Look below!
