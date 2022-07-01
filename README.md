@@ -3,9 +3,9 @@
   <a href="https://cobalt.run">
     <img src="https://badgen.net/badge/icon/Cobalt Developer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
   </a>
-  <a href="https://ko-fi.com/kciter">
+<!--  <a href="https://ko-fi.com/kciter">
     <img src="https://badgen.net/badge/icon/Buy a coffee?icon=kofi&label&color=29ABE0&labelColor=29ABE0" />
-  </a>
+  </a>-->
 <!--   <a href="https://www.facebook.com/sunhyoup.lee">
     <img src="https://badgen.net/badge/icon/Facebook?icon=https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg&label&color=1877F2&labelColor=1877F2" />
   </a>
