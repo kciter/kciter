@@ -21,7 +21,8 @@
 ### Cobalt. Inc.
 > CTO, 2018. 07 ~
 
-## 📘 Writing
+## 📘 Writing / Translation
+* [리액트 훅을 활용한 마이크로 상태 관리](https://product.kyobobook.co.kr/detail/S000212233308)
 * [Vue.js 이 정도는 알아야지](http://www.yes24.com/24/goods/56894866)
 
 ## 📺 Presentation
