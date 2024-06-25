@@ -22,8 +22,9 @@
 > CTO, 2018. 07 ~
 
 ## 📘 Writing / Translation
+* [코딩 테스트 합격자 되기: 자바스크립트 편](https://product.kyobobook.co.kr/detail/S000213641007)
 * [리액트 훅을 활용한 마이크로 상태 관리](https://product.kyobobook.co.kr/detail/S000212233308)
-* [Vue.js 이 정도는 알아야지](http://www.yes24.com/24/goods/56894866)
+* [Vue.js 이 정도는 알아야지](http://www.yes24.com/24/goods/56894866) - Outdated
 
 ## 📺 Presentation
 * [My presentations](https://present.do/members/60be5fd27733e8053f982ffa)
