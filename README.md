@@ -26,10 +26,11 @@
 * [리액트 훅을 활용한 마이크로 상태 관리](https://product.kyobobook.co.kr/detail/S000212233308)
 * [Vue.js 이 정도는 알아야지](http://www.yes24.com/24/goods/56894866) - Outdated
 
+<!--
 ## 📺 Presentation
 * [My presentations](https://present.do/members/60be5fd27733e8053f982ffa)
 
-<!-- * [Deep dive into Vue.js](https://present.do/shows/61346fa35b179c0da74651d3)
+ * [Deep dive into Vue.js](https://present.do/shows/61346fa35b179c0da74651d3)
 * [오픈소스를 여행하는 히치하이커를 위한 안내서](https://present.do/shows/61346fa35b179c0da7465129)
 * [Vue.js 길라잡이](https://www.youtube.com/watch?v=EOo844GSSDY)
 * [Metal 기반 특별한 UI/UX 제공하기](https://present.do/shows/61346fa35b179c0da746536a)
