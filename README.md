@@ -14,10 +14,6 @@
 [![kciter's github stats](https://github-readme-stats.vercel.app/api?username=kciter&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## 💼 Currently working on
-### Cobalt. Inc.
-> CTO, 2018. 07 ~
-
 ## 📘 Writing / Translation
 * [코딩 테스트 합격자 되기: 자바스크립트 편](https://product.kyobobook.co.kr/detail/S000213641007)
 * [리액트 훅을 활용한 마이크로 상태 관리](https://product.kyobobook.co.kr/detail/S000212233308)
